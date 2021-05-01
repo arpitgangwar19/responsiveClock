@@ -1,4 +1,3 @@
-This is a responsive clock.
-PLease run to test it. 
 
-Create by Arpit Gangwar.
+This is master branch
+
